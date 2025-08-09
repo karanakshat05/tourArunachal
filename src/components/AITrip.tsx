@@ -67,7 +67,7 @@ export default function AITripPlanner() {
               Travel Assistant
               </h3>
               <p className="text-gray-800 text-sm mb-6">
-              Ask anything about your dream destination, and we'll crafting the perfect itinerary based on your travel vibes.
+              Ask anything about your dream destination, and we&apos;ll crafting the perfect itinerary based on your travel vibes.
               </p>
               <a
                 href="#"
